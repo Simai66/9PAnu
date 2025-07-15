@@ -24,7 +24,7 @@
 
 ## 📫 ติดต่อผมได้ที่
 - GitHub: [@panuwatwoeiram](https://github.com/panuwatwoeiram)
-- Email: panuwat.example@gmail.com *(เปลี่ยนเป็นอีเมลจริงของคุณ)*  
+- Email: armxbox27@gmail.com 
 
 ---
 
