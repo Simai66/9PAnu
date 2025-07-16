@@ -1,33 +1,33 @@
-# 👋 สวัสดีครับ ผมชื่อภาณุวัฒน์ (Panuwat Woeiram)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+</div>
 
-ยินดีต้อนรับสู่ GitHub ของผม!  
-ผมเป็นนักพัฒนาในสาย Full Stack ที่มีความสนใจในด้าน **Python**, **Frontend Development**, **Mobile App**, และ **AI/Machine Learning**  
-ปัจจุบันกำลังศึกษาในระดับปริญญาตรี และกำลังมุ่งมั่นสร้างโปรเจกต์ที่สามารถต่อยอดในอนาคตได้จริง
+###
 
----
+<div align="left">
+  <a href="https://www.instagram.com/nfall_mai/?__pwa=1" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
-## 🛠️ Tech Stack ที่ถนัด
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind CSS
-- **Backend**: Python (Flask, FastAPI), Node.js (พื้นฐาน)
-- **Mobile**: Flutter, React Native (พื้นฐาน)
-- **AI/ML**: scikit-learn, pandas, OpenCV, TensorFlow (พื้นฐาน)
-- **Tools**: Git, GitHub, VS Code, Figma, Postman
+###
 
----
+<br clear="both">
 
-## 🎯 ความสนใจ
-- การสร้างแอปพลิเคชันที่ใช้งานได้จริง (ทั้ง Web และ Mobile)
-- การวิเคราะห์ข้อมูล และการประยุกต์ใช้ AI/ML กับปัญหาในชีวิตจริง
-- การพัฒนาตนเองอย่างต่อเนื่อง ทั้งด้านเทคนิคและ soft skills
+<img src="https://raw.githubusercontent.com/Simai66/Simai66/output/snake.svg" alt="Snake animation" />
 
----
-
-## 📫 ติดต่อผมได้ที่
-- GitHub: [@panuwatwoeiram](https://github.com/panuwatwoeiram)
-- Email: armxbox27@gmail.com 
-
----
-
-> "การเขียนโค้ดไม่ใช่แค่การสั่งงานคอมพิวเตอร์ แต่มันคือการออกแบบความคิด และเปลี่ยนจินตนาการให้เป็นจริง"
-
-ขอบคุณที่แวะมานะครับ! 🙌
+###
